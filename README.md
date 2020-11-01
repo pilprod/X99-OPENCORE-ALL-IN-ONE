@@ -2,10 +2,15 @@
 
 Repository ALL-IN-ONE (SSDT, Guides, Downloader link and more)
 
+###### Original Sources link SSDT-PACK/Sample_2:
+https://github.com/KGP/X99-System-SSDTs
+
 WARNING: This repository creating for faster building OpenCore wichout longer search information and files!
 
-##### My Spec EFI Folder, Installation manual, Benchmark and FAQ here:
+### My Spec EFI Folder, Installation manual, Benchmark and FAQ here:
 https://github.com/pilprod/OPENCORE-GA-X99-Gaming-5.git
+
+
 
 ## OpenCore Download Links
 
