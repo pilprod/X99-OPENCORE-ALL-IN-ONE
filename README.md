@@ -1,38 +1,38 @@
 # X99-OPENCORE-ALL-IN-ONE
 All-in-one
 
-# OpenCore Download Links
+## OpenCore Download Links
 
-## OpenCore files with base Drivers (Latest version)
+### OpenCore files with base Drivers (Latest version)
 https://github.com/acidanthera/OpenCorePkg/releases/
 
-## OpenCore Resources picker and addition driver
+### OpenCore Resources picker and addition driver
 https://github.com/acidanthera/OcBinaryData/archive/master.zip
 
-# GUIDES
+## GUIDES
 
-## Guides for ALL
+### Guides for ALL
 
-### OpenCore Install Guide
+#### OpenCore Install Guide
 https://dortania.github.io/OpenCore-Install-Guide/
 
-### Getting started with ACPI
+#### Getting started with ACPI
 https://dortania.github.io/Getting-Started-With-ACPI/
 
-### OpenCore Post-Install
+#### OpenCore Post-Install
 https://dortania.github.io/OpenCore-Post-Install/
 
-## Guides for X99 MotherBoards
+### Guides for X99 MotherBoards
 
-### Full Guide
+#### Full Guide
 
-#### MacOS High Sierra 10.13.6
+##### MacOS High Sierra 10.13.6
 https://www.tonymacx86.com/threads/how-to-build-your-own-imac-pro-successful-build-extended-guide.229353/
 
-#### MacOS Mojave 10.14.6
+##### MacOS Mojave 10.14.6
 https://www.tonymacx86.com/threads/imac-pro-x99-live-the-future-now-with-macos-10-14-mojave-successful-build-extended-guide.255117/
 
-# LINKS
+## LINKS
 
 
 
