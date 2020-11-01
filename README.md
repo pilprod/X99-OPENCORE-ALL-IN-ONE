@@ -1,7 +1,11 @@
-# X99-OPENCORE-ALL-IN-ONE
-All-in-one
+# X99 OPENCORE ALL-IN-ONE REPO
+
+Repository ALL-IN-ONE (SSDT, Guides, Downloader link and more)
 
 WARNING: This repository creating for faster building OpenCore wichout longer search information and files!
+
+##### My Spec EFI Folder, Installation manual, Benchmark and FAQ here:
+https://github.com/pilprod/OPENCORE-GA-X99-Gaming-5.git
 
 ## OpenCore Download Links
 
