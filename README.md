@@ -1,6 +1,14 @@
 # X99-OPENCORE-ALL-IN-ONE
 All-in-one
 
+# OpenCore Download Links
+
+## OpenCore files with base Drivers (Latest version)
+https://github.com/acidanthera/OpenCorePkg/releases/
+
+## OpenCore Resources picker and addition driver
+https://github.com/acidanthera/OcBinaryData/archive/master.zip
+
 # GUIDES
 
 ## Guides for ALL
@@ -26,13 +34,20 @@ https://www.tonymacx86.com/threads/imac-pro-x99-live-the-future-now-with-macos-1
 
 # LINKS
 
-## OpenCore (Actual version)
-https://github.com/acidanthera/OpenCorePkg/releases/
 
 
-## Drivers
+
 
 ## Utils
+
+### MaciASL
+https://github.com/acidanthera/MaciASL/releases/
+
+### OpenCore Configurator
+https://mackie100projects.altervista.org/download/occ/?wpdmdl=811&refresh=5f9e7ccdc6b9f1604222157
+
+###  Intel Power Gadget
+https://software.intel.com/content/dam/develop/external/us/en/documents/Intel-Power-Gadget-v3.7.0.dmg
 
 ### gfxutil
 https://github.com/acidanthera/gfxutil/releases/tag/1.80b
