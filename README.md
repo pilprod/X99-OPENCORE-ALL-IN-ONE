@@ -1,6 +1,8 @@
 # X99-OPENCORE-ALL-IN-ONE
 All-in-one
 
+WARNING: This repository creating for faster building OpenCore wichout longer search information and files!
+
 ## OpenCore Download Links
 
 ### OpenCore files with base Drivers (Latest version)
